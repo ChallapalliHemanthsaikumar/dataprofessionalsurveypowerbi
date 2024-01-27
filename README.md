@@ -4,9 +4,11 @@ This is the preview of Report where I created Survey Report Using the Data
 
 Here I transformed the Data According to the Needs 
 
-Screenshots/Preview.png
+
+
+![Alt text](Screenshots/Preview.png)
 
 Here is the Preview of my Raw Dataset 
 
-Screenshots/Raw Dataset Preview.png
+
 
